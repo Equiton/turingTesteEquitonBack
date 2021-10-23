@@ -7,7 +7,7 @@
 **Password:** _123456_   
 **Username:** _postgres_  
 
-**NO PROGRAMA EM "application.propeties" CRIAR**
+**NO PROGRAMA EM "application.propeties" CRIAR:**
 
 **spring.jpa.hibernate.ddl-auto= :** _update_  
 **spring.datasource.url= :** _jdbc:postgresql://localhost:5432/postgres_  
