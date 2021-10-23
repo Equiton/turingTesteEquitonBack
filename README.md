@@ -1,6 +1,6 @@
 # INFORMAÇÕES DO PROJETO
 
-**COMO RODAR EM LOCAL HOST:** _
+**COMO RODAR EM LOCAL HOST:** 
 
 É preciso criar um servidor local com as seguintes informações:
 
@@ -13,4 +13,9 @@
 
 
 
-Descrição: Bem vindo visitante! :technologist:
+**DESCRIÇÃO DO PROJETO:**  
+
+
+
+
+ Bem vindo visitante! :technologist:
