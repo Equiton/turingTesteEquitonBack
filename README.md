@@ -4,7 +4,7 @@
 
 É preciso criar um servidor local com as seguintes informações:_
 
-**_Password: 123456_**
+-**Password: 123456**_
 _Auto:update_
 _Url:jdbc:postgresql://localhost:5432/postgres_
 _Username: postgres_
