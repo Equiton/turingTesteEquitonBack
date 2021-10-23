@@ -9,9 +9,9 @@
 
 **NO PROGRAMA EM "application.propeties" CRIAR**
 
-**Auto:** _update_  
-**Url:** _jdbc:postgresql://localhost:5432/postgres_ 
-**Database:** _POSTGRESQL_  
+**spring.jpa.hibernate.ddl-auto= :** _update_  
+**spring.datasource.url= :** _jdbc:postgresql://localhost:5432/postgres_ 
+**spring.jpa.database*= :* _POSTGRESQL_  
 
 -----------------------//----------------------------
 
