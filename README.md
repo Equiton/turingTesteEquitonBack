@@ -15,6 +15,7 @@
 
 **DESCRIÇÃO DO PROJETO:**  
 
+O projeto foi construido em 3 pacotes separados. O pacote "molds" possui a classe AgendaTelfone, onde irá conter os métodos Get e os Set. Além destes métodos, esta classe também conta com dois construtores em sobrecarga, onde o primeiro vai ser um construtor vazio e o outro irá retornar os atributos da classe.
 
 
 
