@@ -22,7 +22,7 @@ O pacote "molds" possui a classe AgendaTelefone, que irá conter os métodos Get
 
 O pacote "repository" vai ser um repositório da entidade agenda. Ela é uma interface que estende uma classe chamada JpaRository, e dentro foi passado os argumentos da entidade e também do tipo de id. Achei importante estender esta classe “Jpa” pois ele já contém diversos métodos prontos para fazer a persistência no banco de dados.  
 
-
+O pacote "resources" contém os métodos CRUD(Criar,Ler, Atualizar e Deletar). Para isso eu usei o @PostMapping(Para criar dados na agenda), @GetMapping(Para pegar os dados da agenda), @DeletMapping(Para deletar) e o @PutMapping(Para atualizar);  
 
 
 Bem vindo visitante! :technologist:
