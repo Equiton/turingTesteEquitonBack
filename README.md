@@ -4,10 +4,13 @@
 
 É preciso criar um servidor local com as seguintes informações:
 
-**Password:** _123456_  
-**Auto:** _update_  
-**Url:** _jdbc:postgresql://localhost:5432/postgres_  
+**Password:** _123456_   
 **Username:** _postgres_  
+
+**NO PROGRAMA EM "application.propeties" CRIAR**
+
+**Auto:** _update_  
+**Url:** _jdbc:postgresql://localhost:5432/postgres_ 
 **Database:** _POSTGRESQL_  
 
 
