@@ -2,14 +2,14 @@
 
 **COMO RODAR EM LOCAL HOST:** _
 
-É preciso criar um servidor local com as seguintes informações:
+É preciso criar um servidor local com as seguintes informações:_
 
-Password: 123456
-Auto:update
-Url:jdbc:postgresql://localhost:5432/postgres
-Username: postgres
-database:POSTGRESQL
-_
+_Password: 123456_
+_Auto:update_
+_Url:jdbc:postgresql://localhost:5432/postgres_
+_Username: postgres_
+_database:POSTGRESQL_
+
 
 **Curso:** _Bacharelado em Sistemas de Informação_
 
