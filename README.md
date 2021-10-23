@@ -4,11 +4,11 @@
 
 É preciso criar um servidor local com as seguintes informações:_
 
-_**Password: 123456**_  
-#_Auto:update_
-_Url:jdbc:postgresql://localhost:5432/postgres_
-_Username: postgres_
-_database:POSTGRESQL_
+**Password:** _123456_  
+**Auto:**_update_  
+**Url:**_jdbc:postgresql://localhost:5432/postgres_  
+**Username:**_postgres_  
+**Database:**_POSTGRESQL_  
 
 
 **Curso:** _Bacharelado em Sistemas de Informação_
