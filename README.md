@@ -15,7 +15,7 @@
 
 **DESCRIÇÃO DO PROJETO:**  
 
-
+O projeto foi criado usando o Vscode, onde precisei instalar algumas extensões para fazer o spring initializr.  Além disso, achei importante criar um atributo privado chamado “Id” que servirá como chave primária para meus contatos.  
 O projeto foi construido em 3 pacotes diferentes, onde:  
 
 O pacote "molds" possui a classe AgendaTelefone, que irá conter os métodos Get e Set. Além destes métodos, esta classe também conta com dois construtores em sobrecarga, onde o primeiro vai ser um construtor vazio e o outro irá retornar os atributos da classe.
