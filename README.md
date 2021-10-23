@@ -1,6 +1,15 @@
-# MINHAS INFORMAÇÕES
+# INFORMAÇÕES DO PROJETO
 
-**Nome:** _Equiton Gomes da Silva_
+**COMO RODAR EM LOCAL HOST:** _
+
+É preciso criar um servidor local com as seguintes informações:
+
+Password: Eq200398
+Auto:update
+Url:jdbc:postgresql://localhost:5432/postgres
+Username: postgres
+database:POSTGRESQL
+_
 
 **Curso:** _Bacharelado em Sistemas de Informação_
 
