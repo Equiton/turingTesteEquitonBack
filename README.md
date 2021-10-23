@@ -2,7 +2,7 @@
 
 **COMO RODAR EM LOCAL HOST:** 
 
-É preciso criar um servidor local com as seguintes informações:
+É preciso criar um localhost com as seguintes informações:
 
 **Password:** _123456_   
 **Username:** _postgres_  
