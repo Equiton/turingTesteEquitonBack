@@ -28,4 +28,4 @@ O pacote "resources" contém os métodos CRUD(Criar,Ler, Atualizar e Deletar). P
 O pacotes estão em Agenda-> src-> main-> java-> com.teste.agenda
 
 
-Bem vindo visitante! :technologist:
+Espero que gostem do Programa! :technologist:
